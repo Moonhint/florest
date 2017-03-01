@@ -1,6 +1,6 @@
 {
   "name": "florest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Linked Lists and Tree Implementation",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moonhint/back-to-basic.git"
+    "url": "git+https://github.com/Moonhint/florest.git"
   },
   "keywords": [
     "linked",
@@ -20,7 +20,7 @@
   "author": "Antoni <email.to.antoni@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Moonhint/back-to-basic/issues"
+    "url": "https://github.com/Moonhint/florest.git"
   },
-  "homepage": "https://github.com/Moonhint/back-to-basic#readme"
+  "homepage": "https://github.com/Moonhint/florest.git#readme"
 }
